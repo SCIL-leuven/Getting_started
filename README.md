@@ -1,4 +1,4 @@
-# Getting_started
+# Getting started
 Information and tutorials on how to start with and use R
 
 ## Prior knowledge
